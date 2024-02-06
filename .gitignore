@@ -1,1 +1,2 @@
-django-student-management-system-master/venv/
+# Ignore virtual environment
+venv/
